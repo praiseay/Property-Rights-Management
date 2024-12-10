@@ -1,7 +1,6 @@
 # Decentralized Intellectual Property Rights Management Platform
 
 ## 🌐 Project Overview
-
 A blockchain-powered platform revolutionizing intellectual property management through decentralized technologies, providing transparent, secure, and efficient IP rights registration, licensing, and protection.
 
 ## 🌟 Key Features
