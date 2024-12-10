@@ -5,3 +5,5 @@ D
 tests/ip-nft.test.ts,b/9/b9ff89e9d29d36c9b9801328fc63e622a6f76bae
 J
 contracts/ip-registry.clar,e/e/eeac1afcb0e39773eb0d56813a1c60727e8b49ca
+I
+tests/ip-registry.test.ts,2/0/2066e7f140bbb9c6a51bf0db5d283cf5cab04828
